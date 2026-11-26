@@ -17,10 +17,18 @@
     },
     {
         "role": "user",
-        "content": "How do i pay?"
+        "content": "I have a headache what do i do?"
     },
     {
         "role": "assistant",
-        "content": "We accept cash only. General consultations cost Ksh1000 and laboratory services cost KSH1500."
+        "content": "I am sorry to hear that you have a headache, but I cannot diagnose medical conditions. Please visit our clinic for a proper check-up by a doctor."
+    },
+    {
+        "role": "user",
+        "content": "ok. exit"
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you for visiting HealthCare clinic. Have a wonderful day, and please feel free to reach out if you need anything else in the future!"
     }
 ]
