@@ -1,0 +1,8 @@
+```json
+{
+  "question": "Where is the clinic located? What time does it open? How do i pay?",
+  "answer": "The clinic is located in Kasarani, next to Naivas Supermarket. It is open from Monday to Friday between 8:00AM and 10:00PM, and on Saturdays from 8:00AM to 8:00PM, while closed on Sundays and Public holidays. It accepts cash only, with general consultations costing Ksh1000 and laboratory services costing KSH1500.",
+  "topic": "Clinic location, operating hours, and payment methods/prices",
+  "follow_up question": "Would you like to book an appointment?"
+}
+```

@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "Where is the clinic located?"
+    },
+    {
+        "role": "assistant",
+        "content": "HealthCare clinic is located in Kasarani, next to Naivas Supermarket."
+    },
+    {
+        "role": "user",
+        "content": "What time does it open?"
+    },
+    {
+        "role": "assistant",
+        "content": "HealthCare clinic is open from Monday to Friday between 8:00AM and 10:00PM, and on Saturdays from 8:00AM to 8:00PM. We are closed on Sundays and Public holidays. Would you like to book an appointment?"
+    },
+    {
+        "role": "user",
+        "content": "How do i pay?"
+    },
+    {
+        "role": "assistant",
+        "content": "We accept cash only. General consultations cost Ksh1000 and laboratory services cost KSH1500."
+    }
+]

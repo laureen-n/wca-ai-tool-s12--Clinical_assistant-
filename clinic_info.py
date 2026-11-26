@@ -1,9 +1,9 @@
 clinic_info={
     "name" : "HealthCare clinic",
 
-    "Location": "Kasarani, next Naivas Supermarket",
+    "Location": "Kasarani, next to Naivas Supermarket",
 
-    "Opnening_hours": {
+    "Opening_hours": {
         "Monday to Friday": "8:00AM - 10:00PM",
         "Saturdays": "8:00AM - 8:00PM",
         "Sundays and Public holidays": "Closed"
